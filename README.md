@@ -1,4 +1,4 @@
-# Matt Feeney (mattfeeney.us) - Personl Portfolio Website
+# Matt Feeney (mattfeeney.us) - Personal Portfolio Website
 
  In Progress - complete rebuild of my personal portfolio site
 
